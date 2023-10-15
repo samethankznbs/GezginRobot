@@ -1,0 +1,4 @@
+Geçilen Kare Sayısı :
+379
+Geçen Süre :
+41.11111
